@@ -23,5 +23,6 @@
     "nuga": "./nuga.js"
   },
   "author": "Sean Brewer",
-  "license": "MIT"
+  "license": "MIT",
+  "readmeFilename": "README.md"
 }
