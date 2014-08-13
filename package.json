@@ -1,8 +1,7 @@
 {
   "name": "nuga",
   "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "Have a dataset with no delimiters? Does it have defined column widths, though? Turn it into a usable CSV!",
   "dependencies": {
     "lodash": "~2.4.1",
     "event-stream": "~3.1.7",
